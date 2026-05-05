@@ -1,0 +1,3 @@
+﻿  pr12.9.cpp
+C:\Users\andri\source\repos\PR_12_9\PR_12_9\pr12.9.cpp(98,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PR_12_9.vcxproj -> C:\Users\andri\source\repos\PR_12_9\x64\Debug\PR_12_9.exe
